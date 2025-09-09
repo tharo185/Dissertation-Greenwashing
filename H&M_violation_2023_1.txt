@@ -1,0 +1,68 @@
+[Article 1: https://www.eversheds-sutherland.com/en/global/insights/dressed-to-kill-greenwashing-litigation-continues-to-challenge-fashion-retailers-sustainability-clai]
+Dressed to kill: Greenwashing litigation continues to challenge fashion retailers' sustainability claims
+Dressed to kill: Greenwashing litigation continues to challenge fashion retailers' sustainability claims
+June 02, 2023
+
+United States
+Share
+Facebook
+LinkedIn
+Email
+PDF
+Fashion retailers remain a top target of greenwashing lawsuits. Retailers are under scrutiny for their sustainability representations (discussed in our earlier legal alerts here) and are being targeted by class action lawsuits alleging claims under consumer protection and unfair advertising statutes.
+
+This Legal Alert focuses on two closely watched fashion greenwashing cases in Missouri—one against H&M, which was recently dismissed, and one against Nike, which was just filed. Although H&M may have earned a reprieve, greenwashing plaintiffs are unlikely to go quietly into the night, as evidenced by the class action brought against Nike.
+
+Lizama v. H&M(MO)1
+
+In Lizama, the second putative class action brought against H&M in November 2022, plaintiffs accused H&M of making misleading representations about its “conscious choice” line of clothing and sustainability initiatives. The complaint included 11 causes of action, including violations of Missouri and California consumer protection statutes, and named two class representatives—Abraham Lizama and Mark Doten.
+
+On May 12, 2023, the US District Court for the Eastern District of Missouri granted H&M’s motion to dismiss—dismissing the entire action under separate analyses for Lizama and Doten, for failure to state a claim and for lack of personal jurisdiction, respectively. Lizama asserted claims under Missouri’s Merchandising Practices Act (MMPA)—representing Missouri residents (the Missouri subclass), as well as claims for unjust enrichment, negligent misrepresentation, and fraud—representing the nationwide subclass. H&M moved to dismiss Lizama’s Missouri statutory claims (Counts I-V)2 and common law claims for failure to state a claim.
+
+In dismissing Lizama’s claims, the court specifically considered the information provided on H&M’s website, which detailed the sustainability aspects of the conscious choice line, and ruled in favor of H&M, citing lack of sufficient evidence to support Lizama’s allegations for violation of MMPA and common law claims for fraud, negligent misrepresentation, and unjust enrichment. More specifically, in its dismissal, the court held the complaint failed to set forth cognizable claims under the MMPA, reasoning that:
+
+“Despite Lizama’s repeated use of the phrase ‘environmentally friendly’ in the complaint, H&M never actually claims that its conscious choice collection items are ‘environmentally friendly’”;
+ 
+“[D]espite the complaint’s allegations that H&M’s conscious choice ‘labeling and advertising were false, misleading, and deceptive’ by tricking consumers into thinking ‘the Products are more sustainable,’ H&M does not represent that its products are ‘sustainable’ or even ‘more sustainable,’” further emphasizing that H&M’s claims only asserted that its “conscious choice garments contain ‘more sustainable materials’ and that the line includes ‘its most sustainable products’”;
+ 
+“No reasonable consumer would understand [H&M’s] representation to mean that the conscious choice clothing line is inherently ‘sustainable’ or that H&M’s clothing is ‘environmentally friendly’ when neither of those representations were ever made”;
+ 
+With respect to Lizama’s allegations regarding H&M’s clothing composed of recycled polyester not being “more sustainable” because it is primarily sourced from recycled polyethylene terephthalate (PET) bottles, “Lizama’s allegations fail to meet the plausibility standard… because H&M provides consumers with copious amounts of information about the relevant comparison between recycled versus virgin polyester on its website[,]” and as such, “Lizama’s claims that he was misled into believing something that was never represented by H&M must fail”;
+ 
+With respect to Count III (actionable omission by H&M), because “all consumers have the ability to determine the composition of each garment offered for sale by H&M, any claim based on the alleged omission of the composition of conscious choice garments must fail”… noting that H&M makes publicly available the Material Categorization Report, and as such, “reasonable consumers can ascertain the exact materials used in their garments before purchase, review H&M’s discussion of the environmental impacts of those materials, and then independently verify whether these representations are consistent with other, publicly available data”;
+ 
+With respect to Count V (unfair practices), the complaint failed to allege a violation of the Green Guides, as H&M has substantiated and qualified its representations and because “H&M has not made any unqualified environmental benefit claims” in violation of the Green Guides… specifically explaining how H&M, instead of “representing the conscious choice collection is unconditionally sustainable, it has clearly qualified its use of such terms, explaining that its conscious choice items are made with ‘a little extra consideration for the planet’ because they use ‘more sustainable materials’ than its regular collection”;
+ 
+With respect to Count IX (unjust enrichment), dismissal was warranted because it was based on the same nonactionable conduct as the MMPA claims; and
+ 
+With respect to Count X (negligent misrepresentation) and Count XI (fraud), dismissal was warranted based on the same reasons as above, as these common law claims are based on the same allegations of consumer deception and require misrepresentation to be actionable—as Lizama failed to establish that H&M’s representations were not factually accurate.
+Notably, the dismissal order did not provide Lizama with a chance to cure his pleading deficiencies.
+
+Doten, a California resident, asserted similar claims under California law (Counts VI-VIII)3 and sought to represent California residents (the California subclass) who purchased clothing from the “conscious choice” collection in California. The court was quick to dismiss Doten’s claims for lack of personal jurisdiction, reasoning that:
+
+H&M is not subject to general jurisdiction in Missouri because H&M does not have its principal place of business in Missouri, nor is it incorporated under the laws of Missouri;
+ 
+The court lacks specific jurisdiction because Doten’s claims have no connection to Missouri as Doten’s claims do not arise out of or relate to H&M’s contacts with Missouri because he alleges that he is a California resident who made a “conscious choice” purchase in California; and
+ 
+The court cannot exercise pendant jurisdiction over Doten’s claims by virtue of its jurisdiction over Lizama’s claims because there was no affiliation between the two forums and underlying controversy.
+The H&M dismissal highlights the challenges faced by plaintiffs in proving greenwashing claims and serves as a reminder of the complex legal landscape surrounding these cases. Although the dismissal provides some comfort, there is still no sign of greenwashing lawsuits slowing down (discussed below).
+
+Ellis v. Nike(MO)4
+
+On May 10, 2023, just days prior to the court’s ruling in Lizama, the same law firm representing the plaintiffs in the H&M case brought a similar action against Nike, the renowned global sportswear giant, alleging Nike engaged in deceptive and misleading marketing practices by making false claims about its sustainability efforts. More specifically, the complaint accuses Nike of employing deceptive tactics to market its products as “sustainable,” made with “sustainable materials,” and environmentally friendly, in an effort to project an environmentally responsible image, to gain an advantage over its competitors and increase profits.
+
+According to the plaintiffs, Nike’s advertising campaigns have prominently featured claims of sustainable manufacturing processes, reduced carbon emissions, and responsible sourcing of materials. However, the lawsuit asserts that these claims are not backed by concrete evidence and are instead a deliberate attempt to mislead consumers. Notably, the action challenges Nike’s “sustainability” line of clothing under the same Missouri consumer protection statutes5 as the H&M case—specifically referencing Nike’s labeling products as “sustainable”; its other representations relating to its products being “made with recycled fibers” and that doing so “reduces waste and our carbon footprint”; its representations concerning the “Move to Zero” which “is Nike’s journey toward zero carbon and zero waste to help protect the future of sport”; and its use of a circular symbol that means that its products are made with “sustainable” and environmentally friendly materials.
+
+In light of the Lizama dismissal, it is highly likely that the plaintiffs will seek to amend their complaint in an effort to address the shortcomings highlighted in the Lizama dismissal order.
+
+As the legal battle unfolds, the outcome of this case will be closely monitored by environmental activists, industry observers, and consumers concerned about greenwashing practices. The lawsuit serves as a reminder that scrutiny over sustainability representations is nowhere close to being over.
+
+Takeaways
+
+The seminal ruling in the highly anticipated Lizama v. H&M case sets an important precedent, being one of the first decisions to tackle head-on the substantive allegations of fashion greenwashing. Lizama road-maps the things that a company should do to reduce litigation risk: (1) be concrete in your representations; (2) make publicly available the data backing up your representations; and (3) refrain from making unqualified environmental benefit claims.
+
+Interestingly, in the EU, corporations have gone on offense—bringing actions against environmental activist groups over unsupported greenwashing allegations. Most notably, on April 28, 2023, TotalEnergies filed suit against environmental group Greenpeace France and the climate consulting firm Factor-X over a report they published claiming TotalEnergies massively underestimated its 2019 greenhouse gas emissions. In the complaint, TotalEnergies pleads that the Greenpeace report contained “false and misleading information” regarding TotalEnergies GHG emissions, and TotalEnergies is seeking a judicial order to require Greenpeace to remove the report.6
+
+These developments come at a time when consumers and environmental advocates are demanding increasing accountability concerning an organization’s claim to environmentally sustaining practices. Irrespective of these cases, fashion retailers would be well served to remain mindful that the public is likely to continue to demand transparency and accountability from fashion retailers, forcing companies to face legal scrutiny for their environmental claims.
+
+The outcome of these legal battles will undoubtedly shape the future trajectory of environmental advertising and corporate sustainability practices. As consumers continue to prioritize ethical and eco-conscious choices, fashion retailers must be proactive in their sustainability efforts and ensure the accuracy of their environmental claims.
